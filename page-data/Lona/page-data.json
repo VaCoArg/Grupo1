@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-components-page-jsx","path":"/Lona","result":{"pageContext":{"name":"Lona","rawContent":"Página sobre Lona que debe ser editada más tarde. Es una prueba."}},"staticQueryHashes":["3064831728","3125482578"]}
+{"componentChunkName":"component---src-components-page-jsx","path":"/Lona","result":{"pageContext":{"name":"Lona","rawContent":"<div>\n\nPágina sobre Lona que debe ser editada más tarde. Es una prueba.\n\n    <h1>Personal</h1>\n    Hi, I'm Virginia\n</div>"}},"staticQueryHashes":["3064831728","3125482578"]}
