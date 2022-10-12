@@ -23,3 +23,10 @@ color: black;
 font-size: 80%;
 text-align: left;
 }
+
+.botton {
+color: chartreuse;
+border-color: blue;
+border-radius: 10%;
+
+}
