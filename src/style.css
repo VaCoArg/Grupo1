@@ -1,1 +1,24 @@
 /* Add your styles here! */
+h1 {
+color: darkgreen;
+font-size: 100%;
+text-align: center;
+}
+
+h2 {
+color: darkolivegreen;
+font-size: 90%;
+text-align: left;
+}
+
+p {
+color: black;
+font-size: 80%;
+text-align: left;
+}
+
+li {
+color: black;
+font-size: 80%;
+text-align: left;
+}
