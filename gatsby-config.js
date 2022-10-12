@@ -1,4 +1,4 @@
-const basePath = '/github.com/VaCoArg/Grupo1.git'
+const basePath = '/Grupo1'
 
 module.exports = {
   pathPrefix: basePath,
