@@ -1,4 +1,4 @@
-const basePath = '/minimaldigipub2022-template'
+const basePath = '/github.com/VaCoArg/Grupo1.git'
 
 module.exports = {
   pathPrefix: basePath,
