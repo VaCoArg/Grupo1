@@ -18,6 +18,14 @@ font-size: 80%;
 text-align: left;
 }
 
+a {
+    color: red;
+    font-style: normal;    
+}
+a:hover {
+    font-style: italic;    
+}
+
 li {
 color: black;
 font-size: 80%;
@@ -34,11 +42,6 @@ height: 40px;
 text-align: center;
 margin-top: 3em;
 }
-
-a {
-color: red;
-font-style: normal;    
+.botton a {
+    color: white;
 }
-a:hover {
-    font-style: italic;    
-    }
