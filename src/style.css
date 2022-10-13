@@ -32,6 +32,13 @@ font-size: 80%;
 text-align: left;
 }
 
+hr {
+    width: 80%;
+    size: 1; 
+    color: #cccccc;
+    align: center;
+}
+
 .botton {
 color: rgb(255, 255, 255);
 font-style: oblique;
