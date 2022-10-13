@@ -36,6 +36,9 @@ margin-top: 3em;
 }
 
 a {
-color: white;
+color: red;
 font-style: normal;    
 }
+a:hover {
+    font-style: italic;    
+    }
