@@ -5,7 +5,7 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>A title</title>
+           <title>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</title>
         </titleStmt>
         <publicationStmt>
            <p/>
@@ -18,11 +18,10 @@
  <text>
    <body>
    <pb/>
-   <head>Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú</head>
+   <head>Viaje de <name>Monsíenr Acárete du Biscay</name> desde <placeName>Buenos Aires</placeName> hasta el <placeName>Perú</placeName></head>
      <div>
           <p>
-           Viaje de Monsíenr Acárete du Biscay desde Buenos Aires hasta el Perú
-Salí de Buenos Aires y tomé el camino de Córdoba, dejando á Santa Fe á mí 
+          Salí de Buenos Aires y tomé el camino de Córdoba, dejando á Santa Fe á mí 
 derecha, de cuyo lugar, hé aquí una relación:
 Es una población española dependiente de Buenos Aires
 siendo el comandante un mero teniente, quien nada hace sin

@@ -5,7 +5,7 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>A title</title>
+           <title>Monsieur Acarete du Biscay's Journey from Buenos Ayres to Peru</title>
         </titleStmt>
         <publicationStmt>
            <p/>
@@ -18,11 +18,10 @@
  <text>
    <body>
    <pb/>
-   <head>Monsieur Acarete du Biscay's Journey from Buenos Ayres to Peru
+   <head><name>Monsieur Acarete du Biscay's</name> Journey from <placeName>Buenos Ayres</placeName> to <placeName>Peru</placeName>
 </head>
      <div>
           <p>
-            Monsieur Acarete du Biscay's Journey from Buenos Ayres to Peru.
 I Left Buenos Ayres, and took the Road I to Cordoua, leaving Santa Fe on 
 my right hand, of which place take this account, 'tis a Spanish Settlement 
 dependant upon Buenos Ayres, the Commander is no more than a Lieutenant, 
