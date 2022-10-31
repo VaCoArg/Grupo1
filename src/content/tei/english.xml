@@ -5,16 +5,13 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>Monsieur Acarete Du Biscay’s journey from Buenos Aires to Perú</title>
-           <author>Du Biscay, Acarete</author>
+           <title>Monsieur Acarete du Biscay's Journey from Buenos Ayres to Peru</title>
         </titleStmt>
-      <publicationStmt>
-           <p>An Account of a voyage up the river de la Plata, and thence over land to Peru. With observations on the inhabitants, as well Indians and Spaniards; the cities, commerce, fertility, and riches of that part of America.</p>
+        <publicationStmt>
+           <p/>
         </publicationStmt>
         <sourceDesc>
-            <bibl>
-  <title>Monsieur Acarete Du Biscay’s journey from Buenos Aires to Perú</title>. In
- <author>Acarete Du Biscay</author>. <publisher>Voyages and Discoveries in South America, vol. II, S. Buckley. World Digital Library</publisher>. <date>1698</date>. </bibl>
+           <p/>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
@@ -24,27 +21,130 @@
    <head><name>Monsieur Acarete du Biscay's</name> Journey from <placeName>Buenos Ayres</placeName> to <placeName>Peru</placeName>
 </head>
      <div>
-          <p>
-Monſieur Acarete du Biscay's Journey from <placeName><corr>Buenos Ayres</corr></placeName> to <placeName><corr>Peru</corr></placeName>. 
-I Left <placeName><corr>Buenos Ayres</corr></placeName>, and took the Road I to <placeName><corr>Cordoua</corr></placeName>, leaving <placeName>Santa Fe</placeName> on my right hand, of which place take this account, 'tis a Spaniſh Settlement dependant upon <placeName><corr>Buenos Ayres</corr></placeName>, the <roleName>Commander</roleName> is no more than a <roleName>Lieutenant</roleName>, and does nothing but by order from the <roleName>Governor</roleName> of <placeName><corr>Buenos Ayres</corr></placeName>. 'Tis a little place containing 25 Houſes, without any Walls, Fortifications, or Garriſon, diſtant 80 Leagues from <placeName><corr>Buenos Ayres</corr></placeName> Northward, Situate upon the <geogFeat>River</geogFeat> <placeName>de la Plata</placeName>, large Veſſels might come up to it, were it not for a great bank that obstructs the passage a little above <placeName><corr>Buenos Ayres</corr></placeName>. Nevertheleſs 'tis a very advantageous Poſt, because 'tis the only passage from <placeName><corr>Peru</corr></placeName>, <placeName>Chili</placeName> and <placeName><corr>Tucuman</corr></placeName> to Paraguay, and in a manner the Magazine of the Commodities drawn from thence, particularly that Herb already ſpoken of, which they cannot be without in thoſe Provinces. The Soil is as good and Fertile here as at <placeName><corr>Buenos Ayres</corr></placeName>; and the Town having nothing remarkably different from what has been observ'd of <placeName><corr>Buenos Ayres</corr></placeName>, I leave it, and proceed upon my Journey. 'Tis counted 140 Leagues from <placeName><corr>Buenos Ayres</corr></placeName> to <placeName><corr>Cordoua</corr></placeName>, and becauſe ſome parts of the Road are uninhabited for a long way together; I ſurnished my ſelf at my departure with what I was inform'd I ſhould ſtand in need of; ſo I ſet out having a Savage for my Guide, with Three Horſes and Three Mules, ſome to carry my Baggage, and the reſt to change upon the way when that I rid upon was tired. 
-From <placeName>Buenos Ayres</placeName>, to the <geogName> <geogFeat>River Lucan</geogFeat></geogName><ref target="#note1">(1)</ref> , and even as far as the <geogName> <geogFeat>River Recife </geogFeat></geogName><ref target="#note2">(2)</ref>, <num type="cardinal">30</num> Leagues, I pass’d by several Habitations and Farms cultivated by the Spaniards, but beyond <geogName><geogFeat>Recife to the River Salladillo</geogFeat></geogName>, I ſaw none. Let it be obſerved by the way, that theſe <geogFeat>Rivers</geogFeat> as well as all the reſt in the Provinces of <placeName><corr>Buenos Ayres</corr></placeName>, <placeName>Paraguay</placeName> and <placeName><corr>Tucuman</corr></placeName>, that fall into the <geogName><geogFeat>River de la Plata</geogFeat></geogName> are fordable on Horſe-back; but when the Rains or any other accident ſwells them, a Traveller muſt either ſwim over, or elſe get upon a bundle in the nature of a raft, which a Savage hawls over to the other ſide. I could not Swim, and ſo was forc'd to make uſe of this expedient twice or thrice when I could not find a Ford. The way was this, my Indian kill'd a Wild Bull, flead the Hide off, ſtuffed it with ſtraw, and ty'd it up in a great bundle with thongs of the ſame Hide, upon which I plac'd my ſelf with my Baggage ; he ſwam over hawling me after him by a Cord ty'd to the bundle, and then he repaſs'd and ſwam my Horſes and Mules over to me.
-All the Country between the <geogName><geogFeat>River Recife and Salladillo</geogFeat></geogName>, tho' uninhabited, abounds in Cattle and all ſorts of Fruit trees, except Walnut and Chesnut-trees; there are whole Woods of Nectarine-Trees, Three or Four Leagues in compaſs, that bear excellent Fruit, which they not only eat raw, but bake them, or dry them in the Sun, to keep, as we in France do Prunes: They ſeldom uſe any other than the Wood of this Tree for common firing at <placeName>Buenos Ayres</placeName>, and thereabouts. The Savages that dwell in theſe Parts are diſtinguiſh'd into two sorts, those that voluntarily ſubmit to the Spaniards are call’d <corr>Panpiſtas</corr><ref target="#note3">(3)</ref>, the reſt Serranos, both cloathed with Skins, but the laſt ſet up on the <corr>Panpiſtas</corr> as their mortal Enemies wherever they meet with them. All Fight on Horſe-back, either with Lances pointed with Iron or Bones ſharpen'd, or else with Bows and Arrows, they wear Bulls-hides faſhion'd like a Doublet without ſleeves, to defend their Bodies. Their Chiefs that command over them in War and Peace, are call’d Couracas. When they take any one of their Enemies, alive or dead, they meet all together, and after they have reproach'd him, that either he or his Relations were the death of their Kindred or Friends, they cut and tear him into pieces, which they roaſt a little and eat, making a drinking Bowl of his Scull. They feed moſtly upon flesh either raw or dreſs'd, and particularly Colts fleſh, which they like! better than Veal. They catch abundance of Fiſh likewiſe in their Rivers, They have no ſettled places of aboad, but ramble up and down, ſeveral Families together, and live in Tents. 
-I could not inform my ſelf exactly what Religion they were of, but I was told that they look'd upon the Sun and Moon as Deities and as I travell'd along, I ſaw a Savage upon his knees with his Face to the Sun, who cry'd out and made ſtrange geſtures with his Hands and Arms. I learn'd from the Savage that accompany'd me, that he was one of thoſe they call'd Papas, who in the Morning kneel towards the Sun, and at Night towards the Moon, to ſupplicate those fancy'd Divinities to be propitious to them, to give them fair Weather, and Victory over their Foes. 
-They make no great Ceremony in their Marriages ; but when a Relation dies, after they have rubb’d his body with a certain Earth that conſumes all but the Bones, they preserve them, and carry as many of them as they can conveniently about with them in a ſort of Cheſts, and this they do in token of their affection to their Kindred ; indeed they are not wanting in good Offices to them during their Lives, nor in their Sickneſs and Death. 
-Along the <geogName><geogFeat>River Salladillo</geogFeat></geogName>, I took notice of a great many <emph>Parrats</emph>, or <emph>Papagays</emph>, as the Spaniards call them, and certain Birds, call’d <emph>Guacamayos</emph>, which are of divers Colours, and twice or thrice as big as a <emph>Parrat</emph>. The River it ſelf is full of the Fiſh, call'd <emph>Dorado</emph>, which is very good to eat. There is alſo a Creature in it, whether 'tis Meat or Poyſon no body knows, it has Four Feet and a long Tail like a Lizard. 
-From <geogName><geogFeat>Salladillo</geogFeat></geogName> quite to <placeName><corr>Cordoua</corr></placeName>, you go along a very fine <geogFeat>River</geogFeat>, that abounds with Fiſh, which is neither wide nor deep, for it may be forded over. On the Bank of it you meet with little Plan tations every Three or Four Leagues ; which are like Country Houſes inhabited by Spaniards, Portuguese, and the Natives, who have all the neceſſary accomodations of Life they can wiſh, and are very Civil and Charitable to Strangers; their principal Wealth is in Horſes and Mules, in which they Trade with the Inhabitants of Peru. 
-<placeName>Cordoua</placeName> is a Town Situate in a pleaſant and fruitful Plain upon the ſide of a River, bigger and broader than that I have juſt ſpoken of : 'Tis compos’d of about  <num type="cardinal">400</num> Houses, Built like thoſe of <placeName><corr>Buenos Ayres</corr></placeName>. It has neither Ditches, nor Walls, nor Fort for its defence; He that Commands it is <roleName>Governor</roleName> of all the Provinces of Tucuman, and tho’ it be the place of his ordinary Residence, yet he is wont now and then, as he ſees occaſion, to go and paſs ſome time at <placeName><corr>St. Jago de l’Eſtro</corr></placeName><ref target="#note4">(4)</ref>, at <placeName>St. Miguel de Tucuman</placeName>, (which is the Capital City of the Province) at <placeName>Salta</placeName> and at <placeName><corr>Xuxui</corr></placeName><ref target="#note5">(5)</ref>. In each of theſe Villages there is a Lieutenant, who has under him an <roleName>Alcalde</roleName> and <roleName>ſome Officers</roleName> for the Adminiſtration of Juſtice. The <roleName>Biſhop</roleName> of <placeName>Tucuman</placeName> likewiſe uſually reſides at <placeName>Cordoua</placeName>, where the Cathedral is the only Pariſh Church of the whole Town, but there are divers Convents of Monks, namely of Dominicans, Recollects, and those of the Order de la Mercy: and one of Nunns. The Jesuits have a College there, and their Chappel is the fineſt and richeſt of all. 
-The Inhabitants are Rich in Gold and Silver, which they get by the Trade they have for Mules, with which they furniſh Peru and other Parts; which is ſo conſiderable, that they ſell about 28 or 30000 of 'em every Year, which they breed up in their Farms. They usually keep 'em till they are about Two Years old, then expose 'em to Sale, and have about Six Patagons a piece for 'em. The Merchants that come to buy 'em, carry 'em to St. Jago, to Salta and Xuxui , where they leave 'em for Three Years, till they are well grown and become ſtrong, and afterwards bring 'em to Peru, where they preſently have Vent for 'em, becauſe there as well as in the reſt of the Western part of America, the greateſt part of their Carriage is upon Mules. The People of Cordoua alſo drive a Trade in Cows, which they have from the Countrey of Buenos Ayres, and carry to Peru, where without this way of Subſiſtance 'tis certain they would have much ado to live. This kind of Traffick makes this Town the moſt conſiderable in the Province of Tucuman, as well for its Riches and Commodities, as for the Number of its Inhabitants, which are counted to be at leaſt  <num type="cardinal"> 5  </num> or  <num type="cardinal"> 600 </num>Families, beſides Slaves who are three times the number. But the gene rality of 'em of all degrees have no other Arms but a Sword and Poignard, and are very indifferent Souldiers, the Air of the Country, and the Plenty they enjoy, rendring them Lazy and Cowardly. </p>
-
-<p><note xml:id="note1">1. Lujan.</note></p>
-<p><note xml:id="note2">2. Arrecifes.</note></p>
-<p><note xml:id="nota3">3. Pampistas.</note></p>
-<p><note xml:id="nota4">4. Santiago del Estero.</note></p>
-<p><note xml:id="nota5">5. Jujuy.</note></p>
-
-
+         <p>
+         I Left <placeName>Buenos Ayres</placeName>, and took the Road I to <placeName>Cordoua</placeName>, leaving <placeName>Santa Fe</placeName> on 
+         my right hand, of which place take this account, 'tis a Spanish Settlement 
+         dependant upon <placeName>Buenos Ayres</placeName>, the Commander is no more than a Lieutenant, 
+         and does nothing but by order from the Governor of <placeName>Buenos Ayres</placeName>. 'Tis a 
+         little place containing 25 Houses, without any Walls, Fortifications, or 
+         Garrison, distant 80 Leagues from <placeName>Buenos Ayres</placeName> Northward, Situate upon the 
+        <placeName>River de la Plata</placeName>, large Vessels might come up to it, were it not for a 
+         great bank that obstructs the passage a little above Buenos Ayres. 
+         Nevertheless 'tis a very advantageous Post, because 'tis the only passage 
+         from <placeName>Peru</placeName>, <placeName>Chili</placeName> and <placeName>Tucuman</placeName> to <placeName>Paraguay</placeName>, and in a manner the Magazine of 
+         the Commodi<fw type="catch">ties</fw><pb n="25"/>ties drawn from thence, particularly that Herb already spoken 
+         of, which they cannot be without in those Provinces. 
+         </p>
+         <p>
+         The Soil is as good and Fertile here as at <placeName>Buenos Ayres</placeName>; and the Town having nothing 
+         remarkably different from what has been observ'd of <placeName>Buenos Ayres</placeName>, I leave 
+         it, and proceed upon my Journey. 'Tis counted 140 Leagues from <placeName>Buenos 
+         Ayres</placeName> to <placeName>Cordoua</placeName>, and because some parts of the Road are uninhabited for a 
+         long way together; I surnished my self at my departure with what I was 
+         inform'd I should stand in need of; so I set out having a Savage for my 
+         Guide, with Three Horses and Three Mules, some to carry my Baggage, and 
+         the rest to change upon the way when that I rid upon was tired.
+         From <placeName>Buenos Ayres</placeName>, to the <placeName>River Lucan</placeName>, and even as far as the <placeName>River 
+         Recife</placeName>, 30 Leagues, I pass’d by several Habitations and Farms cultivated 
+         by the Spaniards, but beyond <placeName>Recife</placeName> to the <placeName>River Salladillo</placeName>, I saw none. 
+         Let it be observed by the way, that these Rivers as well as all the rest 
+         in the Provinces of <placeName>Buenos Ayres</placeName>, <placeName>Paraguay</placeName> and <placeName>Tucuman</placeName>, that fall into the 
+         River de la Plata are fordable on Horse-back; but when the Rains or any 
+         other accident swells them, a Traveller must either swim over, or else get 
+         upon a bundle in the nature of a raft, which a Savage hawls over to the 
+         other side. I could not Swim, and so was forc'd to make use of this 
+         expedient twice or thrice when I could not find a Ford. The way was this, 
+         my Indian kill'd a Wild Bull, flead the Hide off, stuffed it with straw, 
+         and ty'd it up in a great bundle with thongs of the same Hide, upon which 
+         I plac'd my self with my Baggage ; he swam over hawling me after him by a 
+         Cord ty'd to the bundle, and then he repass'd and swam my Horses and Mules 
+         over to me.
+         All the Country between the <placeName>River Recife</placeName> and <placeName>Salladillo</placeName>, tho' uninhabited, 
+         abounds in Cattle and all sorts of Fruit trees, except Walnut and Chesnut-
+         trees; there are whole Woods of Nectarine-Trees, Three or Four Leagues in 
+         compass, that bear excellent Fruit, which they not only eat raw, but bake 
+         them, or dry them in the Sun, to keep, as we in France do Prunes: They 
+         seldom use any other than the Wood of this Tree for common firing at 
+         Buenos Ayres, and thereabouts. The Savages that dwell in these Parts are 
+         distinguish'd into two sorts, those that voluntarily submit to the 
+         Spaniards are call’d Panpistas, the rest Serranos, both cloathed with 
+         Skins, but the last set up on the Panpistas as their mortal Enemies 
+         wherever they meet with them. All Fight on Horse-back, either with Lances 
+         pointed with Iron or Bones sharpen'd, or else with Bows and Arrows, they 
+         wear Bulls-hides fashion'd like a Doublet without sleeves, to defend their 
+         Bodies. Their Chiefs that command over them in War and Peace, are call’d 
+         Couracas. When they take any one of their Enemies, alive or dead, they 
+         meet all together, and after they have reproach'd him, that either he or 
+         his Relations were the death of their Kindred or Friends, they cut and 
+         tear him into pieces, which they roast a little and eat, making a drinking 
+         Bowl of his Scull. They feed mostly upon flesh either raw or dress'd, and 
+         particularly Colts flesh, which they like! better than Veal. They catch 
+         abundance of Fish likewise in their Rivers, They have no settled places of 
+         aboad, but ramble up and down, several Families together, and live in Tents.
+         I could not inform my self exactly what Religion they were of, but I was 
+         told that they look'd upon the Sun and Moon as Deities and as I travell'd 
+         along, I saw a Savage upon his knees with his Face to the Sun, who cry'd 
+         out and made strange gestures with his Hands and Arms. I learn'd from the 
+         Savage that accompany'd me, that he was one of those they call'd Papas, 
+         who in the Morning kneel towards the Sun, and at Night towards the Moon, 
+         to supplicate those fancy'd Divinities to be propitious to them, to give 
+         them fair Weather, and Victory over their Foes.
+         They make no great Ceremony in their Marriages ; but when a Relation dies, 
+         after they have rubb’d his body with a certain Earth that consumes all but 
+         the Bones, they preserve them, and carry as many of them as they can 
+         conveniently about with them in a sort of Chests, and this they do in 
+         token of their affection to their Kindred ; indeed they are not wanting in 
+         good Offices to them during their Lives, nor in their Sickness and Death.
+         Along the River <placeName>Salladillo</placeName>, I took notice of a great many Parrats, or 
+         Papagays, as the Spaniards call them, and certain Birds, call’d 
+         Guacamayos, which are of divers Colours, and twice or thrice as big as a 
+         Parrat. The River it self is full of the Fish, call'd Dorado, which is 
+         very good to eat. There is also a Creature in it, whether 'tis Meat or 
+         Poyson no body knows, it has Four Feet and a long Tail like a Lizard.
+         From <placeName>Salladillo</placeName> quite to <placeName>Cordoua</placeName>, you go along a very fine River, that 
+         abounds with Fish, which is neither wide nor deep, for it may be forded 
+         over. On the Bank of it you meet with little Plan tations every Three or 
+         Four Leagues ; which are like Country Houses inhabited by Spaniards, 
+         Portuguese, and the Natives, who have all the necessary accomodations of 
+         Life they can wish, and are very Civil and Charitable to Strangers; their 
+         principal Wealth is in Horses and Mules, in which they Trade with the 
+         Inhabitants of Peru.
+         <placeName>Cordoua</placeName> is a Town Situate in a pleasant and fruitful Plain upon the side 
+         of a River, bigger and broader than that I have just spoken of : 'Tis 
+         compos’d of about 400 Houses, Built like those of <placeName>Buenos Ayres</placeName>. It has 
+         neither Ditches, nor Walls, nor Fort for its defence; He that Commands it 
+         is Governor of all the Provinces of <placeName>Tucuman</placeName>, and tho’ it be the place of 
+         his ordinary Residence, yet he is wont now and then, as he sees occasion, 
+         to go and pass some time at <placeName>St. Jago de l’Estro</placeName>, at <placeName>St. Miguel de Tucuman</placeName>, 
+         (which is the Capital City of the Province) at <placeName>Salta</placeName> and at <placeName>Xuxui</placeName>. In each 
+         of these Villages there is a Lieutenant, who has under him an Alcalde and 
+         some Officers for the Administration of Justice. The Bishop of <placeName>Tucuman</placeName> 
+         likewise usually resides at <placeName>Cordoua</placeName>, where the Cathedral is the only 
+         Parish Church of the whole Town, but there are divers Convents of Monks, 
+         namely of Dominicans, Recollects, and those of the Order de la Mercy: and 
+         one of Nunns. The Jesuits have a College there, and their Chappel is the 
+         finest and richest of all.
+         The Inhabitants are Rich in Gold and Silver, which they get by the Trade 
+         they have for Mules, with which they furnish <placeName>Peru</placeName> and other Parts; which 
+         is so considerable, that they sell about 28 or 30000 of 'em every Year, 
+         which they breed up in their Farms. They usually keep 'em till they are 
+         about Two Years old, then expose 'em to Sale, and have about Six Patagons 
+         a piece for 'em. The Merchants that come to buy 'em, carry 'em to <placeName>St. 
+         Jago</placeName>, to <placeName>Salta</placeName> and <placeName>Xuxui</placeName> , where they leave 'em for Three Years, till they 
+         are well grown and become strong, and afterwards bring 'em to <placeName>Peru</placeName>, where 
+         they presently have Vent for 'em, because there as well as in the rest of 
+         the Western part of <placeName>America</placeName>, the greatest part of their Carriage is upon 
+         Mules. The People of <placeName>Cordoua</placeName> also drive a Trade in Cows, which they have 
+         from the Countrey of <placeName>Buenos Ayres</placeName>, and carry to <placeName>Peru</placeName>, where without this 
+         way of Subsistance 'tis certain they would have much ado to live. This 
+         kind of Traffick makes this Town the most considerable in the Province of 
+         <placeName>Tucuman</placeName>, as well for its Riches and Commodities, as for the Number of its 
+         Inhabitants, which are counted to be at least 5 or 600 Families, besides 
+         Slaves who are three times the number. But the gene rality of 'em of all 
+         degrees have no other Arms but a Sword and Poignard, and are very 
+         indifferent Souldiers, the Air of the Country, and the Plenty they enjoy, 
+         rendring them Lazy and Cowardly.</p>
      </div>
-     
      </body>
  </text>
 </TEI>
