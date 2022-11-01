@@ -52,3 +52,13 @@ margin-top: 3em;
 .botton a {
     color: white;
 }
+
+tei-corr {
+    font-weight: 600;
+}
+tei-placeName {
+    font-style: italic;
+}
+tei-geogName {
+    font-style: italic;
+}
