@@ -34,8 +34,8 @@
             my right hand, of which place take this account, <abbr>'tis</abbr> a Spanish Settlement 
             dependant upon <placeName>Buenos Ayres</placeName>, the Commander is no more than a Lieutenant, 
             and does nothing but by order from the Governor of <placeName>Buenos Ayres</placeName>. <abbr>'Tis</abbr> a 
-            little place containing 25 Houses, without any Walls, Fortifications, or 
-            Garrison, distant 80 Leagues from <placeName>Buenos Ayres</placeName> Northward, 
+            little place containing <num type="cardinal">25</num> Houses, without any Walls, Fortifications, or 
+            Garrison, distant <num type="cardinal">80</num> Leagues from <placeName>Buenos Ayres</placeName> Northward, 
             <choice><sic>Situate</sic><corr>Situated</corr></choice> upon the 
             River <geogName>de la Plata</geogName>, large Vessels might come up to it, were it not for a 
             great bank that obstructs the passage a little above <placeName>Buenos Ayres</placeName>. 
@@ -46,16 +46,16 @@
             ties drawn from thence, particularly that Herb already spoken of, which they cannot be without in those Provinces. 
             The Soil is as good and Fertile here as at <placeName>Buenos Ayres</placeName>; and the Town having nothing 
             remarkably different from what has been <abbr>observ'd</abbr> of <placeName>Buenos Ayres</placeName>, I leave 
-            it, and proceed upon my Journey. <abbr>'Tis</abbr> counted 140 Leagues from <placeName>Buenos 
+            it, and proceed upon my Journey. <abbr>'Tis</abbr> counted <num type="cardinal">140</num> Leagues from <placeName>Buenos 
             Ayres</placeName> to <placeName>Cordoua</placeName>, and because some parts of the Road are uninhabited for a 
             long way together ; I furnished my self at my departure with what I was 
             <abbr>inform'd</abbr> I should stand in need of; so I set out having a Savage for my 
-            Guide, with Three Horses and Three Mules, some to carry my Baggage, and 
+            Guide, with <num type="cardinal">Three</num> Horses and <num type="cardinal">Three</num> Mules, some to carry my Baggage, and 
             the rest to change upon the way when that I rid upon was tired.
          </p>
          <p>
             From <placeName>Buenos Ayres</placeName>, to the River <geogName>Lucan</geogName>, and even as far as the River 
-            <geogName>Recife</geogName>, 30 Leagues, I <abbr>pass’d</abbr> by several Habitations and Farms cultivated 
+            <geogName>Recife</geogName>, <num type="cardinal">30</num> Leagues, I <abbr>pass’d</abbr> by several Habitations and Farms cultivated 
             by the Spaniards, but beyond <geogName>Recife</geogName> to the <geogName>River Salladillo</geogName>, I saw none. 
             Let it be observed by the way, that these Rivers as well as all the rest 
             in the Provinces of <placeName>Buenos Ayres</placeName>, <placeName>Paraguay</placeName> and <placeName>Tucuman</placeName>, that fall into the 
@@ -74,12 +74,12 @@
          <p>
             All the Country between the River <geogName>Recife</geogName> and <geogName>Salladillo</geogName>, <abbr>tho'</abbr> uninhabited, 
             abounds in Cattle and all sorts of Fruit trees, except Walnut and Chesnut-
-            trees; there are whole Woods of Nectarine-Trees, Three or Four Leagues in 
+            trees; there are whole Woods of Nectarine-Trees, <num type="cardinal">Three</num> or <num type="cardinal">Four</num> Leagues in 
             compass, that bear excellent Fruit, which they not only eat raw, but bake 
             them, or dry them in the Sun, to keep, as we in <placeName>France</placeName> do Prunes: They 
             seldom use any other than the Wood of this Tree for common firing at 
             <placeName>Buenos Ayres</placeName>, and thereabouts. The Savages that dwell in these Parts are 
-            <abbr>distinguish'd</abbr> into two sorts, those that <fw type="catch">volunt-</fw>
+            <abbr>distinguish'd</abbr> into <num type="cardinal">two</num> sorts, those that <fw type="catch">volunt-</fw>
             <pb n="27"/>            
             voluntarily submit to the 
             Spaniards are <abbr>call’d</abbr> <name>Panpistas</name>, the rest <name>Serranos</name>, both <sic>cloathed</sic> with 
@@ -139,7 +139,7 @@
          <p>
             <placeName>Cordoua</placeName> is a Town <choice><sic>Situate</sic><corr>Situated</corr></choice>
             in a pleasant and fruitful Plain upon the side of a River, bigger and broader than that I have just spoken of : 
-            <abbr>'Tis</abbr> <abbr>compos’d</abbr> of about 400 Houses, Built like those of <placeName>Buenos Ayres</placeName>. It has 
+            <abbr>'Tis</abbr> <abbr>compos’d</abbr> of about <num type="cardinal">400</num> Houses, Built like those of <placeName>Buenos Ayres</placeName>. It has 
             neither Ditches, nor Walls, nor Fort for its defence; He that Commands it 
             is Governor of all the Provinces of <placeName>Tucuman</placeName>, and <abbr>tho’</abbr> it be the place of 
             his ordinary Residence, yet he is wont now and then, as he sees oc<fw type="catch">casion,</fw>
@@ -157,12 +157,12 @@
          <p>
             The Inhabitants are Rich in Gold and Silver, which they get by the Trade 
             they have for Mules, with which they furnish <placeName>Peru</placeName> and other Parts; which 
-            is so considerable, that they sell about 28 or 30000 of <abbr>'em</abbr> every Year, 
+            is so considerable, that they sell about <num type="cardinal">28</num> or <num type="cardinal">30000</num> of <abbr>'em</abbr> every Year, 
             which they breed up in their Farms. They usually keep <abbr>'em</abbr> till they are 
-            about Two Years old, then expose <abbr>'em</abbr> to Sale, and have about Six Patagons 
+            about <num type="cardinal">Two</num> Years old, then expose <abbr>'em</abbr> to Sale, and have about <num type="cardinal">Six</num> Patagons 
             a piece for <abbr>'em</abbr>. The Merchants that come to buy <abbr>'em</abbr>, carry <abbr>'em</abbr> to <placeName>St. 
             Jago</placeName>, to <placeName>Salta</placeName> and <placeName>Xuxui</placeName>, 
-            where they leave <abbr>'em</abbr> for Three Years, till they are well grown and become <fw type="catch">strong,</fw> 
+            where they leave <abbr>'em</abbr> for <num type="cardinal">Three</num> Years, till they are well grown and become <fw type="catch">strong,</fw> 
             <pb n="31"/>
             and afterwards bring <abbr>'em</abbr> to <placeName>Peru</placeName>, where 
             they presently have Vent for <abbr>'em</abbr>, because there as well as in the rest of 
@@ -172,7 +172,7 @@
             way of Subsistance <abbr>'tis</abbr> certain they would have much ado to live. This 
             kind of Traffick makes this Town the most considerable in the Province of 
             <placeName>Tucuman</placeName>, as well for its Riches and Commodities, as for the Number of its 
-            Inhabitants, which are counted to be at least 5 or 600 Families, besides 
+            Inhabitants, which are counted to be at least <num type="cardinal">5</num> or <num type="cardinal">600</num> Families, besides 
             Slaves who are three times the number. But the generality of <abbr>'em</abbr> of all 
             degrees have no other Arms but a Sword and Poignard, and are very 
             indifferent <choice><sic>Souldiers</sic><corr>Soldiers</corr></choice>, the Air of the Country, and the Plenty they enjoy, 
