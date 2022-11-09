@@ -55,14 +55,20 @@ margin-top: 3em;
 
 tei-name {
     font-style: italic;
+    color: #dc3522;
 }
 
 tei-name[type=personRoleName] {
-    color: #2638d8;
+    font-variant: small-caps;
 }
 
 tei-name[type=placeGeog] {
-    color: #dc3522;
+    font-weight: 600;
+}
+
+tei-name[type=org] {
+    font-weight: 300;
+    font-variant: small-caps;
 }
 
 tei-note {
