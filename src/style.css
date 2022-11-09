@@ -60,3 +60,7 @@ tei-name {
     font-style: italic;
     color: #dc3522;
 }
+
+tei-note {
+    display: block;
+}
