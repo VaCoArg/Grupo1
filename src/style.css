@@ -73,3 +73,13 @@ tei-name[type=org] {
 tei-note {
     display: block;
 }
+
+tei-ref {
+    font-size: small;
+    color: #dc3522;
+    font-variant-position: super; 
+}
+
+tei-sic {
+    font-weight: 600;
+}
