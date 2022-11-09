@@ -58,7 +58,5 @@ tei-corr {
 }
 tei-name {
     font-style: italic;
-}
-tei-name {
-    font-style: italic;
+    color: #dc3522;
 }
