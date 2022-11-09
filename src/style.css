@@ -57,11 +57,11 @@ tei-name {
     font-style: italic;
 }
 
-tei-name [type="personRoleName"] {
+tei-name[type=personRoleName] {
     color: #2638d8;
 }
 
-tei-name [type="placeGeog"] {
+tei-name[type=placeGeog] {
     color: #dc3522;
 }
 
