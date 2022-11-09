@@ -53,6 +53,10 @@ margin-top: 3em;
     color: white;
 }
 
+tei-name {
+    font-style: italic;
+}
+
 tei-name [type="personRoleName"] {
     font-style: italic;
     color: #2638d8;
