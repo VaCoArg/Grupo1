@@ -54,7 +54,6 @@ margin-top: 3em;
 }
 
 tei-name {
-    font-style: italic;
     color: #dc3522;
 }
 
@@ -68,7 +67,7 @@ tei-name[type=placeGeog] {
 
 tei-name[type=org] {
     font-weight: 300;
-    font-variant: small-caps;
+    font-style: italic;
 }
 
 tei-note {
